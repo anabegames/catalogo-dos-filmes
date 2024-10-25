@@ -8,6 +8,7 @@ header {
    color: rgb(13, 14, 13);
    border-bottom: solid 10px rgb(9, 9, 9);
    text-align: center;
+   font-family: "Luckiest Guy", cursive;
 }
 
 section {
@@ -15,6 +16,7 @@ section {
    background-color: gainsboro;
    padding: 30px;
    justify-content: center;
+   font-family: "Luckiest Guy", cursive;
 }
 
 .chamada-texto{
